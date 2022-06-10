@@ -21,5 +21,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `json-server --watch db.json`
 Run json server with watch mode. The server will run on localhost:3000.
-json-server --watch db.json
